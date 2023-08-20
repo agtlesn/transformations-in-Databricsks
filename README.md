@@ -1,1 +1,1 @@
-# transformations-in-Databricsks
+Inspired by a wonderful Pluralsight learning Getting Started with Apache Spark on Databricks of Janavi Ravi, I have made a number of transformations using the data taken from https://www.kaggle.com/datasets/yaranathakur/largest-companies-in-the-united-states-by-revenue. The data concerns the largest companies in the United States by revenue, based on the 2022 Fortune 500 rankings.
